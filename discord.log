@@ -1,9 +1,3 @@
-[2025-02-08 03:01:44] [INFO    ] discord.client: logging in using static token
-[2025-02-08 03:01:45] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: f761b53d26076d15883ab37bf46a6c81).
-[2025-02-08 03:06:49] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session f761b53d26076d15883ab37bf46a6c81.
-[2025-02-08 04:08:56] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session f761b53d26076d15883ab37bf46a6c81.
-[2025-02-08 05:21:00] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session f761b53d26076d15883ab37bf46a6c81.
-[2025-02-08 05:58:38] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session f761b53d26076d15883ab37bf46a6c81.
-[2025-02-08 08:14:39] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session f761b53d26076d15883ab37bf46a6c81.
-[2025-02-08 09:47:00] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session f761b53d26076d15883ab37bf46a6c81.
-[2025-02-08 12:32:08] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session f761b53d26076d15883ab37bf46a6c81.
+[2025-02-08 15:58:50] [INFO    ] discord.client: logging in using static token
+[2025-02-08 15:58:50] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: ac57e34d4bcc1aff38f22e8c26d55e0d).
+[2025-02-08 16:37:15] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session ac57e34d4bcc1aff38f22e8c26d55e0d.
