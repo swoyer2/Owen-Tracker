@@ -39,7 +39,7 @@ handler = logging.FileHandler(filename='discord.log', encoding='utf-8', mode='w'
 
 ```
 
-### 3. Run with py bot.py
+### 3. Run code
 ```bash
 py bot.py
 ```
