@@ -1,4 +1,4 @@
-# Discord Bot for Tracking Status and Most Recent Message
+# Owen Tracker
 
 This bot tracks the user's current status and the most recent message sent by them.
 
