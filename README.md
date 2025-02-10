@@ -1,6 +1,7 @@
 # Owen Tracker
 
-This bot tracks the user's current status and the most recent message sent by them.
+This bot tracks the user's current status and the most recent message sent by them. You can use the bot by typing $ then the name you want to look at, it should look like
+$NAMEHERE . By default the name is set to my friend owen, but that can be changed.
 
 ---
 
